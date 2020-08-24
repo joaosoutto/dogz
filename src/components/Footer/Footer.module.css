@@ -1,0 +1,26 @@
+.footer {
+  background: rgb(251, 78, 48);
+  padding: 1rem;
+  height: 7rem;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer p {
+  font-family: var(--type-second);
+  letter-spacing: .1rem;
+}
+
+.more {
+  display: flex;
+  align-items: center;
+  border-left: 4px solid #fff;
+  padding: .5rem 0 .5rem 1rem;
+}
+
+.link {
+    margin-right: 2rem;
+}
