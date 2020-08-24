@@ -11,7 +11,7 @@ const Footer = () => {
       <div className={styles.more}>
         <a
           className={styles.link}
-          href="https://joaosoutto.github.io/soutto/"
+          href="https://soutto.herokuapp.com/"
           target="blank"
         >
           <img src={logo} alt="soutto" width="30px" />
