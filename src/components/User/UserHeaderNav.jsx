@@ -41,10 +41,6 @@ const UserHeaderNav = () => {
           <AddPhoto />
           {mobile && 'Add Photo'}
         </NavLink>
-        {/* <NavLink to="/account/stats" activeClassName={styles.active}>
-          <Stats />
-          {mobile && 'Statistics'}
-        </NavLink> */}
         <button onClick={userLogout}>
           <Logout />
           {mobile && 'Logout'}
